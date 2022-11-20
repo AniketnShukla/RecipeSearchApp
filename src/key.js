@@ -1,0 +1,4 @@
+const YOUR_APP_ID = "06723d0c"
+const YOUR_APP_KEY = "1795f5fd13c44671e6ab138bcbcdb9b9"
+
+export {YOUR_APP_ID, YOUR_APP_KEY}
